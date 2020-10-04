@@ -1,4 +1,4 @@
-# Triven_Portfolio
+# Group IT Graduate Programme Portfolio
 
 # [ Python Learning Material from Udemy Course](https://github.com/Pod0303/Learning---Python-Bootcamp-)
 
