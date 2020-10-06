@@ -5,9 +5,7 @@
 2. Second part of code uses OpenCv to record using Webcam
 3. Third part uses Youtube link to play video 
 
-![](https://github.com/Pod0303/Project-1-Introduction-through-media/blob/main/Images/1..jpg)
-![](https://github.com/Pod0303/Project-1-Introduction-through-media/blob/main/Images/2..jpg)
-![](https://github.com/Pod0303/Project-1-Introduction-through-media/blob/main/Images/3..jpg)
+![](https://github.com/Pod0303/Project-1-Introduction-through-media/blob/main/Images/1..jpg) ![](https://github.com/Pod0303/Project-1-Introduction-through-media/blob/main/Images/2..jpg) ![](https://github.com/Pod0303/Project-1-Introduction-through-media/blob/main/Images/3..jpg)
 
 # [ Python Assessments](https://github.com/Pod0303/Learning---Python-Bootcamp-)
 1. - Objects and Data Structures Assessment
