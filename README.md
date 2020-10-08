@@ -5,7 +5,17 @@
 2. Second part of code uses OpenCv to record using Webcam
 3. Third part uses Youtube link to play video 
 
-![](https://github.com/Pod0303/Project-1-Introduction-through-media/blob/main/Images/4..jpg) 
+![](https://github.com/Pod0303/Project-1-Introduction-through-media/blob/main/Images/4..jpg)
+
+# [ Project 2 - Tic Tac Toe](https://github.com/Pod0303/Project-2-Tic-Tac-Toe)
+*Tic Tac Toe Game*
+1. Plays a game of Tic Tac Toe with 2 players 
+2. Player 1 = X and Player 2 = O 
+3. First player to line up three X's or O's
+
+
+![](https://github.com/Pod0303/Project-2-Tic-Tac-Toe-/blob/main/imgages/TTT%204.jpg)
+
 
 # [ Python Assessments](https://github.com/Pod0303/Learning---Python-Bootcamp-)
 1. - Objects and Data Structures Assessment
