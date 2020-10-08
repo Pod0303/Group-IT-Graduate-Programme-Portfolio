@@ -1,4 +1,4 @@
-# Group IT Graduate Programme Portfolio(Still in Progress)
+# Group IT Graduate Programme Portfolio
 # [ Project 1 - Introduction through media](https://github.com/Pod0303/Project-1-Introduction-through-media) 
 *Intended to be used for Video Introduction using different mediums* 
 1. First part of code uses OpenCv to play MP4 Video file 
@@ -14,7 +14,7 @@
 3. First player to line up three X's or O's
 
 
-![](https://github.com/Pod0303/Project-2-Tic-Tac-Toe-/blob/main/imgages/TTT%206.jpg)
+![](https://github.com/Pod0303/Project-2-Tic-Tac-Toe-/blob/main/imgages/TTT%207.jpg)
 
 
 # [ Python Assessments](https://github.com/Pod0303/Learning---Python-Bootcamp-)
