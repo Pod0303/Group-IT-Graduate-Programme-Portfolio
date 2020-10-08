@@ -14,7 +14,7 @@
 3. First player to line up three X's or O's
 
 
-![](https://github.com/Pod0303/Project-2-Tic-Tac-Toe-/blob/main/imgages/TTT%204.jpg)
+![](https://github.com/Pod0303/Project-2-Tic-Tac-Toe-/blob/main/imgages/TTT%206.jpg)
 
 
 # [ Python Assessments](https://github.com/Pod0303/Learning---Python-Bootcamp-)
