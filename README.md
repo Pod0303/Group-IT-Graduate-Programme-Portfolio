@@ -16,6 +16,17 @@
 
 ![](https://github.com/Pod0303/Project-2-Tic-Tac-Toe-/blob/main/imgages/TTT%207.jpg)
 
+# [ Project 3 - Sudoku](https://github.com/Pod0303/Project-3-Sudoku)
+*Game of Sudoku*
+1. Plays a game of Sudoku 
+2. Select a board position (A-I/1-9) and place corresponding correct digit (1-9)
+3. Game ends if three incorrect digits selected
+
+![](https://github.com/Pod0303/Project-3-Sudoku/blob/main/images/SU1.jpg)
+![](https://github.com/Pod0303/Project-3-Sudoku/blob/main/images/SU3.jpg)
+
+
+
 
 # [ Python Assessments](https://github.com/Pod0303/Learning---Python-Bootcamp-)
 1. - Objects and Data Structures Assessment
